@@ -1,10 +1,9 @@
 # ✨ Who am I?
-I'm **Reza Mehdikhanlou**, a passionate Fullstack Web Developer who loves building awesome web applications. I also run a <a href="https://youtube.com/@AsmrProg" target="_blank">YouTube channel</a> where I teach web coding tutorials to help others learn and grow in web development.
+I'm *Wilkemnerg*, a passionate Fullstack Web Developer who loves building efficient and scalable web applications. I enjoy working with modern technologies and continuously improving my skills to deliver clean, reliable, and impactful solutions.
 
 # 🚀 What I Do
 
 * 🔥 Fullstack web development (Frontend & Backend)
-* 🎥 Create web coding tutorials on YouTube
 * 💡 Love working with modern web technologies
 * 🛠️ Always experimenting with new tools & frameworks
 
@@ -14,9 +13,10 @@ I'm **Reza Mehdikhanlou**, a passionate Fullstack Web Developer who loves buildi
 
 💬 Let's Connect
 
-* Telegram : <a href="https://t.me/wilkemberg" target="_blank">Wilkemberg</a>
+* Telegram : <a href="https://t.me/wilkemberg" target="_blank">Send mensagens</a>
 * Email : <a href="mailto:will.smanum@gmail.com?subject=Collaboration%20Request" target="_blank">Send Email</a>
-* GitHub : <a href="https://github.com/willsmanum" target="_blank">Here!</a>
+* GitHub : <a href="https://github.com/wilkemberg" target="_blank">Here!</a>
+* LinkedIn : <a href="https://www.linkedin.com/in/wilkemberg/" target="_blank">Profile</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg" />
